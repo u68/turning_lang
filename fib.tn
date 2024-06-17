@@ -1,0 +1,27 @@
+msp 1
+smem 1
+msp 1
+msp 2
+smem 3
+msp -1
+in
+div 1
+msp -1
+loopn 1
+smem 0
+add -1
+add -2
+print
+msp -2
+smem 0
+add 1
+add 2
+print
+msp 1
+smem 0
+add -1
+add 1
+print
+msp 1
+lend
+5
